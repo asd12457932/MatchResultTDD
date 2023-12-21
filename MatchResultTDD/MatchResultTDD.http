@@ -1,0 +1,6 @@
+@MatchResultTDD_HostAddress = http://localhost:5252
+
+GET {{MatchResultTDD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
